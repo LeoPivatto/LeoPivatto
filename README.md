@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeoPivatto
-- 🌱 learning HTML, CSS and JavaScript
+- 🌱 Currently Learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on projects as a FrontEnd developer
 - 📫 How to reach me:
 
