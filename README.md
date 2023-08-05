@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoPivatto
 - 🌱 Currently Learning HTML, CSS and JavaScript
-- 💞 I’m looking to collaborate on projects as a FrontEnd developer
+- 💞 I’m looking to collaborate on projects as a Fullstack developer
 - 📫 How to reach me: 
 
 
