@@ -1,11 +1,14 @@
 
-<h1>About me:</h1>
+<h1>Hi! 👋 I'm leo.</h1>
 
 Full stack developer from Brazil                                    
 Looking to collaborate on some new projects..                            
 
+🚀 About me:
+Resume: You can find my resume [here]
+Learning: I'm learning C#
 
-<h2>Reach me out:</h2>
+<h2>🌐 Reach me out:</h2>
 
    <div> <a href = "leogpivatto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   <a href="https://www.linkedin.com/in/leopivatto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   </div>
 
