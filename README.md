@@ -19,7 +19,6 @@ Looking to collaborate on some new projects..
    <li>React</li>
    <li>Nodejs</li>
    <li>Mongodb</li>
-   <li>Nextjs</li>
 </ul>
 
 <!---
