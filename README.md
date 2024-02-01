@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👯 I’m looking to collaborate on **some new projects**
+- 👯 Seeking to collaborate on projects to reach the potential of my skills
 
 - 📫 How to reach me **leogpivatto@gmail.com**
 
