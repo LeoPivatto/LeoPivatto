@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
-<h3 align="center">A passionate Full stack developer from Brazil</h3>
+<h3 align="center">A Full stack developer from Brazil</h3>
 
 - 🌱 I’m currently learning **C#**
 
